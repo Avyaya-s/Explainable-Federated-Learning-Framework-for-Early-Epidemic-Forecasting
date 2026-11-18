@@ -2,6 +2,7 @@
 
 A split-federated spatio-temporal graph neural network architecture that forecasts Dengue outbreak risk and weekly case loads across 284 Indian districts, enabling privacy-preserving cooperative disease surveillance with client-side local temporal learning and server-side spatial graph message passing.
 
+[![IEEE CSITSS 2026](https://img.shields.io/badge/IEEE-CSITSS%202026%20%7C%20Accepted%20%26%20Presented-00629B?logo=ieee&logoColor=white)](#-publication)
 [![Build/CI Status](https://img.shields.io/badge/Build%2FCI-Passing-brightgreen)](https://github.com/google-deepmind)
 [![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
 [![Primary Language](https://img.shields.io/badge/Language-Python%20%2F%20JavaScript-blue)](https://python.org)
@@ -10,8 +11,41 @@ A split-federated spatio-temporal graph neural network architecture that forecas
 
 ---
 
+## 📄 Publication
+
+> **The research behind this project was peer-reviewed, accepted, and presented at an IEEE international conference.**
+>
+> **EPI-FLAME: Explainable Privacy-Preserving Federated Graph Neural Networks for Epidemic Intelligence**
+>
+> *Krishnappa H K, Stavan Khobare, Rohith S Panchamukhi, Avyaya S Yekkar, Kaizen S*
+>
+> 📍 **2026 10th International Conference on Computational System and Information Technology for Sustainable Solutions (CSITSS)** · IEEE · RV College of Engineering, Bengaluru
+>
+> 🆔 Paper ID: `CSITSS2026-835` · ✅ IEEE copyright transfer completed · 🎤 Presented October 2026 · 📚 To appear in IEEE Xplore
+
+EPI-FLAME is the name the paper uses for the FedXGNN framework in this repository.
+
+<details>
+<summary><b>Cite this work (BibTeX)</b></summary>
+
+```bibtex
+@inproceedings{krishnappa2026epiflame,
+  title     = {{EPI-FLAME}: Explainable Privacy-Preserving Federated Graph Neural Networks for Epidemic Intelligence},
+  author    = {Krishnappa, H. K. and Khobare, Stavan and Panchamukhi, Rohith S. and Yekkar, Avyaya S. and S, Kaizen},
+  booktitle = {2026 10th International Conference on Computational System and Information Technology for Sustainable Solutions (CSITSS)},
+  publisher = {IEEE},
+  year      = {2026},
+  note      = {Paper ID: CSITSS2026-835. To appear in IEEE Xplore}
+}
+```
+
+</details>
+
+---
+
 ## SECTION 2 — TABLE OF CONTENTS
 
+- [📄 Publication](#-publication)
 - [SECTION 1 — HEADER BLOCK](#fedxgnn-explainable-split-federated-graph-epidemic-intelligence)
 - [SECTION 2 — TABLE OF CONTENTS](#section-2--table-of-contents)
 - [SECTION 3 — PROJECT OVERVIEW](#section-3--project-overview)
